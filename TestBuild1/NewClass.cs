@@ -2,6 +2,6 @@
 {
     public class NewClass
     {
-        
+        //new class
     }
 }
